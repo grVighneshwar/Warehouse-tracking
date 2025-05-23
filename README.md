@@ -146,9 +146,13 @@ if __name__ == "__main__":
 ```
 **The schematic with coustom symbols as per the design**
 ![image](https://github.com/user-attachments/assets/a900eae5-be26-41af-a85a-bc716adce493)
+
 **PCB layout completely designed by me with coustom footprints as per the design**
+
 ![image](https://github.com/user-attachments/assets/c014d6b4-a76e-4977-8e52-523575c6768d)
+
 **PCB Etched by my own hands using heat transfer method**
+
 ![WhatsApp Image 2025-05-23 at 17 35 10_5453f8b4](https://github.com/user-attachments/assets/5d500747-a57c-4f61-b21d-9bd3820e6b66)
 ![WhatsApp Image 2025-05-23 at 17 35 11_426a29fe](https://github.com/user-attachments/assets/841b6f11-b36c-4b13-867d-e1c17e85887d)
 
